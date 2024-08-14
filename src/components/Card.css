@@ -1,0 +1,13 @@
+/* src/components/Card.css */
+.card {
+    border: 1px solid #ccc;
+    background-color: white;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+  }
+  
+  .card-content {
+    padding: 10px;
+    cursor: grab;
+  }
+  
